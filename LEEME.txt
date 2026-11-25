@@ -1,0 +1,36 @@
+CHINO® — PORTAFOLIO WEB DE DYLAN MEJÍA
+====================================
+
+CONTENIDO
+- index.html: estructura HTML semántica de la página.
+- estilos.css: diseño responsive y efectos CSS.
+- assets/img/: logo real y muestras extraídas de su portafolio.
+- assets/Portafolio_Dylan_Mejia.pdf: PDF original facilitado.
+
+CÓMO VER LA PÁGINA
+1. Descomprime toda la carpeta.
+2. Abre index.html en tu navegador, o abre la carpeta en Visual Studio Code.
+3. Para publicarla en GitHub Pages, sube index.html, estilos.css y assets
+   a la raíz de un repositorio y activa Pages desde Settings.
+
+FUNCIONALIDAD
+- Navegación por anclas internas.
+- Galería real: al seleccionar una obra se abre su imagen completa.
+- Filtros de categorías hechos con radio buttons y CSS, sin JavaScript.
+- Menú desplegable adaptable a teléfonos, sin JavaScript.
+- Descarga del portafolio PDF.
+- Diseño responsivo, foco visible y textos alternativos para imágenes.
+
+PARA PERSONALIZAR
+- El logo, la paleta cromática y las imágenes proceden de los archivos
+  entregados. Colores del logo: azul #00107F, negro #000000, blanco #FFFFFF.
+- Cambia los textos del perfil cuando Dylan confirme su presentación final.
+- Para añadir sus datos de contacto en la sección "Contacto", inserta por
+  ejemplo el siguiente enlace solo si tienes el email verdadero:
+  <a href="mailto:correo.real@dominio.com">Escríbeme</a>
+  No incluimos un email o Instagram inventado.
+- Si se dispone del archivo HTML del kit oficial de UPEC, se pueden adaptar
+  las clases o componentes exactamente a ese kit. El enlace suministrado
+  redirigía a una pantalla de inicio de sesión durante la revisión.
+
+NO ES NECESARIO INSTALAR NADA.
